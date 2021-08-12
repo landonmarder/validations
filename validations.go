@@ -3,7 +3,7 @@ package validations
 import (
 	"fmt"
 
-	"github.com/go-gorm/gorm"
+	"gorm.io/gorm"
 )
 
 // NewError generate a new error for a model's field
